@@ -1,0 +1,97 @@
+.header {
+width: 100%;
+height: 80px;
+border-bottom: 5px solid black;
+display: flex;
+align-items: center;
+}
+
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header span {
+text-transform: uppercase;
+    /*line-height: 80px;*/
+    font-size: 26px;
+    color: #333;
+ font-family: 'Roboto', sans-serif;
+padding-right:18px;
+display:inline-block;
+}
+.header .text{
+}
+
+
+
+.header .text span {
+}
+
+.l1{
+font-weight: 900;
+}
+.l2{
+font-weight: 700;
+}
+.l3{
+font-weight: 300;
+}
+.l4{
+font-weight: 100;
+}
+.l5{
+font-weight: 100;
+}
+
+.header .navmenu ul li {
+text-transform: uppercase;
+float: left;
+padding: 0 18px;
+}
+
+.header .navmenu ul li a{
+    text-decoration: none;
+    color: #666;
+font-size: 13px;
+font-family: "Roboto",sans-serif;
+    font-weight: 900;
+    
+}
+
+.header .navmenu ul li:first-child a{
+    color: black
+}
+
+.header .navmenu {
+display: block;
+    text-align: right;
+    /*padding: 30px 0;*/
+    line-height: 20px;
+    font-size: 12px;
+    margin-top: -11px;
+}
+.header .navmenu ul li a:hover {
+color:black;
+}
+
+.header .navmenu input{
+    width: 60px;
+    height: 42px;
+    border: none;
+    color: #999;
+    
+}
+
+.header .search{
+    margin-left: 18px;
+    border-left: 1px solid #ccc;
+}
+
+.header .search i{
+     margin-left: 18px;
+    font-size: 15px;
+    color: #333;
+}
+

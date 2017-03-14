@@ -1,0 +1,215 @@
+.footer {
+background-color: #1c1c1c;
+height: 400px;
+}
+.footer  .first, .footer  .second{
+ float: left;
+    height: 400px;
+    float: left;
+
+}
+.footer .second{
+height: 400px;
+   
+ float: left;
+ margin-left: 30px;
+}
+
+.footer .second>p{
+    color: #999;
+    font-family: 'Roboto',sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 0;
+}
+
+
+
+.footer .third{
+   
+    height: 400px;
+     float: left;
+     margin-left: 30px;
+}
+
+.footer #a{
+    font-weight: bold;
+
+   font-family: 'Roboto';
+}
+
+.footer #b{
+    font-weight: 500;
+}
+.footer h4{
+   font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    color:  #fff;
+}
+
+.footer .firstone{
+   
+   
+    height:65px;
+    margin-top: 30px;
+}
+
+.footer .image1{
+height: 50px;
+width: 70px;
+float: left;
+
+}
+.footer .image1>img{
+    height: 53px;
+width: 70px;
+
+}
+
+.footer .yazi1{
+    float: left;
+    height: 56px;
+width: 260px;
+margin-left: 15px;
+font-family: 'Roboto',sans-serif;
+font-size: 13px;
+}
+.footer ul li{
+    position: relative;
+    bottom: 3px;
+    right: 43px;
+  font-size: 11px;
+   list-style: none;
+   color: #666;
+
+}
+.footer .firsttwo{
+    height: 65px;
+  
+    margin-top: 30px;
+}
+
+
+
+.footer .firstthree{
+height: 65px;
+   
+    margin-top: 30px;
+
+}
+.footer .yazi1>a{
+color: #ccc;
+
+}
+.footer .yazi1>a:hover{
+    color: #333;
+    transition: .3s ease;
+}
+
+.footer a{
+    color: #333;
+    cursor: pointer;
+}
+
+.footer #us{
+ font-weight: 100;
+ 
+
+}
+
+
+.footer>.wrapper>.second>ul>li{
+    float: left;
+    width: 53px;
+    height: 50px;
+  font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    font-style: normal;
+    cursor: pointer;
+    border: 1px solid #242424;
+    line-height: 50px;
+}
+
+.footer>.wrapper>.second>ul>li:nth-child(n+2){
+    margin-left: 10px;
+}
+
+.footer>.wrapper>.second>ul>li:hover{
+    border: 1px solid#ccc;
+    
+    transition: .8s ease;
+}
+.footer>.wrapper>.second>ul>li:hover a{
+    color: #ccc;
+    transition: .8s ease;
+    
+}
+
+.footer .form{
+    width: 370px;
+    height: 219px;
+   
+}
+.footer .name{
+width: 100%;
+height: 45px;
+background: none;
+border: 2px solid#242424;
+ font-size: 13px;
+    color: #333;
+}
+
+
+
+.footer textarea{
+    width: 100%;
+    height: 95px;
+    margin-top: 12px;
+    background: none;
+    font-size: 13px;
+    color: #333;
+    border: 2px solid#242424;
+
+}
+
+.footer .send{
+    width: 159px;
+    height: 50px;
+    margin-top: 7px;
+    text-align: center;
+    background: none;
+    color: #333;
+    border: 2px solid#242424;
+    cursor: pointer;
+}
+.footer .send:hover{
+    color: #ccc;
+    border: 2px solid #ccc;
+    transition:  1s ease;
+}
+
+.footer b{
+   font-family: 'Roboto',sans-serif;
+    
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

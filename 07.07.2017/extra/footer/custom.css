@@ -1,0 +1,73 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+.col1{
+ width: calc(((100% / 12) * 1) - 27.5px);
+   height: 300px;
+ 
+  float: left;
+}
+
+.col2{
+ width: calc(((100% / 12) * 2) - 25px);
+    height: 300px;
+  
+  float: left;
+}
+
+.col3{
+ width: calc(((100% / 12) * 3) - 22.5px);
+
+  float: left;
+}
+
+.col4{
+  width: calc(((100% / 12) * 4) - 20px);
+}
+
+.col5{
+  width: calc(((100% / 12) * 5) - 17.5px);
+}
+
+.col6{
+  
+ width: calc(((100% / 12) * 6) - 15px);
+}
+
+.col7{
+ width: calc(((100% / 12) * 7) - 12.5px);
+}
+
+.col8{
+   width: calc(((100% / 12) * 8) - 10px);
+}
+
+.col9{
+  width: calc(((100% / 12) * 9) - 7.5px);
+}
+
+.col10{
+  width: calc(((100% / 12) * 10) - 5px);
+}
+
+.col11{
+ width: calc(((100% / 12) * 11) - 2.5px);
+}
+
+.col12{
+  width: 100%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
